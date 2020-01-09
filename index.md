@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+Список актуальных чипов и боксов.
 
-You can use the [editor on GitHub](https://github.com/DemonikD/tvbox/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Amlogic
+S905 /  S905X / S912 (устарели)
+S905X2 / S905Y2 - Beelink GT MINI-A, X96 Max, MECOOL KM3, HK1 Plus, MINIX NEO T5, X2 Cube, A95X Max, Mecool KM9 Pro, T95Q, A95X Plus, T95X2, X96S
+S905X3 / S905C1 - H96 max x3, A95X F3, A95X F3 Slim, A95X F3 Air, Q95, X96 Air, Beelink GT1 mini-2
+S922X - Beelink GT-King, X88 King, UGOOS AM6 Pro, A95X MAX Plus
+S905X4 (В 2020г.)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Rockchip
+RK3328 / RK3318 / RK3368 (устарели)
+RK3399 / RK3399K - H96 Max, R-TV BOX X99, RKM MK39, N6 Max
+RK3530 (В 2020г.)
+RK3588 (В 2020г.)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DemonikD/tvbox/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Allwinner
+H6 / H603 / H616 / H6 VC200-OS - TX6, Q+, X96H, H96 Mini, T95 H616, X99 Mini, H10, T95 Max, X96M, MX10 PRO, R-TV X10 Plus
