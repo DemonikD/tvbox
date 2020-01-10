@@ -2,7 +2,7 @@
 
 Amlogic
 S905 /  S905X / S912 (устарели)
-S905X2 / S905Y2 - Beelink GT MINI-A, X96 Max, MECOOL KM3, HK1 Plus, MINIX NEO T5, X2 Cube, A95X Max, Mecool KM9 Pro, T95Q, A95X Plus, T95X2, X96S
+S905X2 / S905Y2 - Beelink GT MINI-A, X96 Max, MECOOL KM3, HK1 Plus, MINIX NEO T5, X2 Cube, A95X Max, KM9, Mecool KM9 Pro, T95Q, A95X Plus, T95X2, X96S, HK1 PLAY, h96 max x2, TX3 Max, Magicsee N5 Max, v8 max, T10 Pro, T95Q PLUS
 S905X3 / S905C1 - H96 max x3, A95X F3, A95X F3 Slim, A95X F3 Air, Q95, X96 Air, Beelink GT1 mini-2
 S922X - Beelink GT-King, X88 King, UGOOS AM6 Pro, A95X MAX Plus
 S905X4 (В 2020г.)
@@ -14,4 +14,4 @@ RK3530 (В 2020г.)
 RK3588 (В 2020г.)
 
 Allwinner
-H6 / H603 / H616 / H6 VC200-OS - TX6, Q+, X96H, H96 Mini, T95 H616, X99 Mini, H10, T95 Max, X96M, MX10 PRO, R-TV X10 Plus
+H6 / H603 / H616 / H6 VC200-OS - TX6, Q+, X96H, H96 Mini, T95 H616, X99 Mini, H10, T95 Max, X96M, MX10 PRO, R-TV X10 Plus, v96mini, Tanix TX6 Mini
